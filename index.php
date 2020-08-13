@@ -41,6 +41,7 @@
             <img src="resources\img\logo-white.png" alt="logo" class="logo">
             <img src="resources\img\logo.png" alt="logo" class="logo-black">
             <ul class="main-nav js--main-nav">
+              <li><a href="about.html">What is this?</a></li>
               <li><a href="#skills">Skills</a></li>
               <li><a href="#works">How it works</a></li>
               <li><a href="#projects">Examples</a></li>
@@ -61,7 +62,7 @@
         <div class="row">
             <h2>Self-driven &mdash; Quick to learn</h2>
             <p class="long-copy">
-            Hello, I made this website to showcase my skills and interests. Below you'll find some examples of my work, as well as generic stock photos for design purposes. I have a more straightforward portfolio linked below.
+            Hello, I made this website to showcase my skills and interests. Below you'll find some examples of my work, as well as generic stock photos for design purposes. I (will) have a more straightforward portfolio linked below.
           </p>
         </div>
         <div class="row">
@@ -206,7 +207,7 @@
 
     <section class="section-projects" id="projects">
       <div class="row">
-        <h2>Section under construction. Github links and screenshots coming soon.</h2>
+        <h2>Section under construction. Not intended to be a true portfolio site, but might as well self plug.</h2>
       </div>
 
       <div class="row js--wp-3">
@@ -214,10 +215,7 @@
           <img src="resources/img/temp.jpg" alt="brick">
           <h3>Java test sample</h3>
           <div class="project">
-              Purposely flawed code
-          </div>
-          <div class="project">
-              Purposely flawed code
+              Purposely flawed Java code
           </div>
           <div class="project">
             Uses SureFire, JaCoCo, Sonarqube, and JUnit
@@ -226,77 +224,29 @@
 
         <div class="col span-1-of-4 box">
           <img src="resources/img/temp.jpg" alt="brick">
-          <h3>Python Jupyter Notebooks</h3>
+          <h3>Embedded interactive graph</h3>
           <div class="project">
-            Demonstrate use of Pandas and NumPy
+            Graph using Bokeh, website using flask.
           </div>
         </div>
 
         <div class="col span-1-of-4 box">
           <img src="resources/img/temp.jpg" alt="brick">
-          <h3>Simple portfolio</h3>
+          <h3>Portfolio</h3>
           <div class="project">
-            Built in Django/Flask
+            Built in Django
           </div>
         </div>
 
         <div class="col span-1-of-4 box">
-          <img src="resources/img/temp.jpg" alt="brick">
-          <h3>Tetris</h3>
+        <img src="resources/img/tetris.jpg" alt="Tetris screenshot">
+          <a href="https://github.com/kavants/tetrisInC"><h3>Tetris</h3></a>
           <div class="project">
             Built in C#
           </div>
         </div>
       </div>
     </section>
-
-<!--
-      <div class="row js--wp-3">
-        <div class="col span-1-of-4 box">
-
-    <section class="section-projects" id="projects">
-      <div class="row">
-        <h2>Section under construction. Github links and screenshots coming soon.</h2>
-        </div>
-
-        <div class="row js--wp-3">
-           <div class=" col span-1-of-4 box">
-                <img src="resources/img/temp.jpg" alt="brick">
-                <h3>Simple portfolio</h3>
-                <div class="project">
-                <p>Built in Django/Flask</p>
-                </div>
-            </div>
-           <div class=" col span-1-of-4 box">
-                <img src="resources/img/temp.jpg" alt="brick">
-                <h3>Java test sample</h3>
-                <div class="project">
-                <p>Maven jar</p>
-                </div>
-                <div class="project">
-                 Purposely flawed code
-                </div>
-                <div class="project">
-                  Uses SureFire, JaCoCo, Sonarqube, and JUnit
-                </div>
-            </div>
-            <div class=" col span-1-of-4 box">
-                <img src="resources/img/temp.jpg" alt="brick">
-                <h3>Tetris</h3>
-                <div class="project">
-                Built in C#
-                </div>
-            </div>
-            <div class=" col span-1-of-4 box">
-                <img src="resources/img/temp.jpg" alt="brick">
-                <h3>Python Jupyter Notebooks</h3>
-                <div class="project">
-                Demonstrate use of Pandas and NumPy
-                </div>
-            </div>
-        </div>
-    </section> -->
-
 
 
     <section class="section-testimonials" id="testimonials">
@@ -489,7 +439,7 @@
         <div class="row">
             <div class="col span-1-of-2">
                 <ul class="footer-nav">
-                    <li><a href="#">About us</a></li>
+                    <li><a href="about.html">About us</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Press</a></li>
                     <li><a href="#">iOS App</a></li>
