@@ -41,7 +41,7 @@
             <img src="resources\img\logo-white.png" alt="logo" class="logo">
             <img src="resources\img\logo.png" alt="logo" class="logo-black">
             <ul class="main-nav js--main-nav">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><a href="#projects">Examples</a></li>
               <li><a href="#contact">Contact Me!</a></li>
             </ul>
