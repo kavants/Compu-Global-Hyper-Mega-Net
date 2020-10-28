@@ -54,7 +54,7 @@
           on an e-commerce/subscription based website. I don't mean for this to be a true portfolio, but thought<br>
           I would include at least one section where I feature some projects from my github. </p>
             <a class="btn btn-full js--scroll-to-contact" href="#contact">Attention grabbed!</a>
-            <a class="btn btn-ghost" href="index.html">Reutrn to main page!</a>
+            <a class="btn btn-ghost" href="index.php">Reutrn to main page!</a>
         </div>
     </header>
 
@@ -198,11 +198,8 @@
         <div class="row">
             <div class="col span-1-of-2">
                 <ul class="footer-nav">
-                    <li><a href="about.html">About us</a></li>
+                    <li><a href="about.php">About us</a></li>
                     <li><a href="#">Blog</a></li>
-                    <li><a href="#">Press</a></li>
-                    <li><a href="#">iOS App</a></li>
-                    <li><a href="#">Android App</a></li>
                 </ul>
             </div>
             <div class="col span-1-of-2">
